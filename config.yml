@@ -1,0 +1,4 @@
+name: "My Open-Source CodeQL config"
+
+queries:
+  - uses: security-and-quality
